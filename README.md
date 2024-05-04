@@ -1,10 +1,14 @@
-# co69942d6b22db314a32431fd
+# Film ideas generator
 
-Quick start:
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file in the server side code
+
+`API_KEY`
+
+## Quick start:
 
 ```
 $ npm install
 $ npm run dev
 ```
-
-Head over to https://vitejs.dev/ to learn more about using vite
