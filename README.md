@@ -2,9 +2,9 @@
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file in the server side code
+To run this project, you will need to add the following environment variable to your env.js file
 
-`API_KEY`
+`OPENAI_API_KEY`
 
 ## Quick start:
 
